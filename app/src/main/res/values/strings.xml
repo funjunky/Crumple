@@ -2,4 +2,5 @@
     <string name="app_name">Crumple</string>
     <string name="Play"/>
     <string name="play">Play</string>
+    <string name="shuffle">Shuffle</string>
 </resources>
